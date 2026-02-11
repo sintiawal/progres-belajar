@@ -13,4 +13,4 @@ saya sudah menyelesaikan kelas:
 -  Pengenalan ke logika pemrograman (programming logic 101)
 dan kelas yang sedang saya pelajari yaitu kelas:
 - belajar dasar git dengan github
-* mungkin progres belajar saya baru sekitar 51% namun  dipastikan akan segera saya selesaikan hingga 100%
+* mungkin progres belajar saya baru sekitar 52% namun  dipastikan akan segera saya selesaikan hingga 100%
